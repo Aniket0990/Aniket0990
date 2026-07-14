@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Aniket Shelke
+# Aniket Shelke ⚡
 
 ### Full-Stack Developer | Frontend Developer | Computer Engineer
 
@@ -31,11 +31,15 @@
 # 👨‍💻 About Me
 
 
-In my current work, I primarily use technologies such as Next.js, React.js, JavaScript, TypeScript, and Tailwind CSS to create high-performance web applications. I enjoy working on UI development, optimizing application performance, and implementing best practices to deliver reliable and efficient frontend solutions.
+In my current work, I primarily use technologies such as Next.js, React.js, JavaScript, TypeScript, and Tailwind CSS to create high-performance web applications. I enjoy working on UI development, optimizing application
+performance, and implementing best practices to deliver reliable and efficient frontend solutions.
 
-I also have knowledge of backend technologies including Core Java, Advanced Java, Spring Boot, and REST APIs. This understanding helps me collaborate effectively with backend teams and build well-integrated full-stack solutions. I also have experience working with databases such as MySQL and PostgreSQL.
+I also have knowledge of backend technologies including Core Java, Advanced Java, Spring Boot, and REST APIs. This understanding helps me collaborate effectively with backend teams and build well-integrated full-stack
+solutions. I also have experience working with databases such as MySQL and PostgreSQL.
 
-I am familiar with the Software Development Life Cycle (SDLC) and understand how different stages such as planning, development, testing, and deployment contribute to building successful software products. Additionally, I have experience with CI/CD practices that help streamline development workflows, improve code quality, and enable faster and more reliable deployments.
+I am familiar with the Software Development Life Cycle (SDLC) and understand how different stages such as planning, development, testing, and deployment contribute to building successful software products. Additionally, I
+have experience with CI/CD practices that help streamline development workflows, improve code quality, and enable faster and more reliable deployments.
+
 ---
 
 ## Tech Stack
@@ -102,14 +106,14 @@ I am familiar with the Software Development Life Cycle (SDLC) and understand how
 <b>PostgreSQL</b>
 </td>
 
-</tr>
-
-<tr>
-
 <td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=git" width="55"/><br><br>
 <b>Git</b>
 </td>
+
+</tr>
+
+<tr>
 
 <td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=github" width="55"/><br><br>
@@ -130,27 +134,6 @@ I am familiar with the Software Development Life Cycle (SDLC) and understand how
 
 </tr>
 </table>
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Aniket0990&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Aniket0990&theme=tokyonight"/>
-
-</p>
-
----
-
-# 💻 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniket0990&layout=compact&theme=tokyonight"/>
-
-</p>
 
 ---
 
@@ -159,22 +142,6 @@ I am familiar with the Software Development Life Cycle (SDLC) and understand how
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aniket0990&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🤝 Connect With Me
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/shelkeaniket">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:aniketshelke554@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
 
 </p>
 
