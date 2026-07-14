@@ -130,8 +130,6 @@ have experience with CI/CD practices that help streamline development workflows,
 <b>Postman</b>
 </td>
 
-<td></td>
-
 </tr>
 </table>
 
