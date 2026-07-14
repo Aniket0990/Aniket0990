@@ -2,15 +2,27 @@
 
 # 👋 Hi, I'm Aniket Shelke
 
-### Frontend Developer | React.js | Next.js | TypeScript | JavaScript
+### Full-Stack Developer | Frontend Developer | Computer Engineer
 
-<p>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> •
-<a href="https://github.com/YOUR_USERNAME">GitHub</a> •
-<a href="mailto:YOUR_EMAIL@gmail.com">Email</a>
+<p align="center">
+
+<a href="https://linkedin.com/in/shelkeaniket">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Aniket0990">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:aniketshelke554@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://aniketshelke-portfolio.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
 </p>
-
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
 
 </div>
 
@@ -18,64 +30,115 @@
 
 # 👨‍💻 About Me
 
-I am a **Frontend Developer** passionate about building modern, responsive, and scalable web applications.
 
-I enjoy transforming UI/UX designs into high-performance applications using modern frontend technologies. I continuously improve my skills by working on real-world projects and learning new technologies.
+In my current work, I primarily use technologies such as Next.js, React.js, JavaScript, TypeScript, and Tailwind CSS to create high-performance web applications. I enjoy working on UI development, optimizing application performance, and implementing best practices to deliver reliable and efficient frontend solutions.
 
-- 💼 Frontend Developer
-- 🌱 Currently learning Advanced Next.js & System Design
-- 🚀 Interested in Full Stack Development
-- 💬 Ask me about React, Next.js, JavaScript & TypeScript
-- 📍 Maharashtra, India
+I also have knowledge of backend technologies including Core Java, Advanced Java, Spring Boot, and REST APIs. This understanding helps me collaborate effectively with backend teams and build well-integrated full-stack solutions. I also have experience working with databases such as MySQL and PostgreSQL.
 
+I am familiar with the Software Development Life Cycle (SDLC) and understand how different stages such as planning, development, testing, and deployment contribute to building successful software products. Additionally, I have experience with CI/CD practices that help streamline development workflows, improve code quality, and enable faster and more reliable deployments.
 ---
 
-# 🛠 Tech Stack
+## Tech Stack
 
-### Frontend
+<table align="center">
+<tr>
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
-</p>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=html" width="55"/><br><br>
+<b>HTML5</b>
+</td>
 
-### Backend
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=css" width="55"/><br><br>
+<b>CSS3</b>
+</td>
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs" />
-</p>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=js" width="55"/><br><br>
+<b>JavaScript</b>
+</td>
 
-### Database
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=ts" width="55"/><br><br>
+<b>TypeScript</b>
+</td>
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
-</p>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=react" width="55"/><br><br>
+<b>React</b>
+</td>
 
-### Tools
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=nextjs" width="55"/><br><br>
+<b>Next.js</b>
+</td>
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
-</p>
+</tr>
 
----
+<tr>
 
-# 🚀 Current Focus
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=tailwind" width="55"/><br><br>
+<b>Tailwind</b>
+</td>
 
-- ⚡ Advanced React Patterns
-- ⚡ Next.js App Router
-- ⚡ TypeScript Best Practices
-- ⚡ Performance Optimization
-- ⚡ Full Stack Development
-- ⚡ System Design
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=java" width="55"/><br><br>
+<b>Java</b>
+</td>
 
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=spring" width="55"/><br><br>
+<b>Spring Boot</b>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=mysql" width="55"/><br><br>
+<b>MySQL</b>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=postgres" width="55"/><br><br>
+<b>PostgreSQL</b>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=git" width="55"/><br><br>
+<b>Git</b>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=github" width="55"/><br><br>
+<b>GitHub</b>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=vscode" width="55"/><br><br>
+<b>VS Code</b>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=postman" width="55"/><br><br>
+<b>Postman</b>
+</td>
+
+<td></td>
+
+</tr>
+</table>
 ---
 
 # 📈 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Aniket0990&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Aniket0990&theme=tokyonight"/>
 
 </p>
 
@@ -85,7 +148,7 @@ I enjoy transforming UI/UX designs into high-performance applications using mode
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniket0990&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -95,7 +158,7 @@ I enjoy transforming UI/UX designs into high-performance applications using mode
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aniket0990&theme=tokyo-night"/>
 
 </p>
 
@@ -105,22 +168,14 @@ I enjoy transforming UI/UX designs into high-performance applications using mode
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/shelkeaniket">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:aniketshelke554@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
 
 ---
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-*"Building clean, scalable and user-friendly web applications with React & Next.js."*
-
-</div>
