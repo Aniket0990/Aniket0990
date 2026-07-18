@@ -2,7 +2,7 @@
 
 # Aniket Shelke ⚡
 
-### Full-Stack Developer | Frontend Developer | Computer Engineer
+### Full-Stack Developer | jr. Software Engineer | BE Computer Engineering
 
 <p align="center">
 
@@ -140,7 +140,3 @@ have experience with CI/CD practices that help streamline development workflows,
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aniket0990&theme=tokyo-night"/>
-
-</p>
-
----
